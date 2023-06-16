@@ -7,7 +7,7 @@
 ## Code editor for HTML, CSS and Javascript to discover frontend code
 
 <div align="center">
-  <img alt="Demo" src="./src/Assets/web.gif"/>
+  <img alt="Demo" src="./src/Assets/test.gif"/>
 </div>
 
 ### Features:
